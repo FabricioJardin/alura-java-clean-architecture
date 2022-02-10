@@ -1,4 +1,6 @@
-package school;
+package br.com.alura.school.recommendation;
+
+import br.com.alura.school.student.Student;
 
 import java.time.LocalDateTime;
 

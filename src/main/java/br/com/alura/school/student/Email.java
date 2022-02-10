@@ -1,4 +1,4 @@
-package school;
+package br.com.alura.school.student;
 
 public class Email {
     private String address;
