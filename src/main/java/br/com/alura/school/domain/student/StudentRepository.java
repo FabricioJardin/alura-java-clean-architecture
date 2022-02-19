@@ -5,7 +5,7 @@ import java.util.List;
 public interface StudentRepository {
     void enroll(Student student);
 
-    Student findByDocumentNumber(DocumentNumber documentNumber);
+    Student findByDocumentNumber(DocumentNumber documentNumber) throws StudentNotFoundException;
 
     List<Student> getAll();
 }

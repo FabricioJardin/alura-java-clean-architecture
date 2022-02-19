@@ -26,12 +26,12 @@ public class Student {
         return name;
     }
 
-    public DocumentNumber getDocumentNumber() {
-        return documentNumber;
+    public String getDocumentNumber() {
+        return documentNumber.getValue();
     }
 
-    public Email getEmail() {
-        return email;
+    public String getEmail() {
+        return email.getAddress();
     }
 
     public List<Phone> getPhones() {
