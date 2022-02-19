@@ -11,6 +11,8 @@ public class Student {
 
     private List<Phone> phones = new ArrayList<>();
 
+    private String password;
+
     public Student(String name, DocumentNumber documentNumber, Email email) {
         this.name = name;
         this.documentNumber = documentNumber;
