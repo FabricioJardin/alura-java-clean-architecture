@@ -1,4 +1,4 @@
-package br.com.alura.school.student;
+package br.com.alura.school.domain.student;
 
 import br.com.alura.school.domain.student.DocumentNumber;
 import org.junit.jupiter.api.Test;
