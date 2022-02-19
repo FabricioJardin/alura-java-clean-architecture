@@ -1,6 +1,6 @@
-package br.com.alura.school;
+package br.com.alura.school.student;
 
-import br.com.alura.school.student.Phone;
+import br.com.alura.school.domain.student.Phone;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

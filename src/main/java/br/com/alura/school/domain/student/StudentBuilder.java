@@ -1,4 +1,4 @@
-package br.com.alura.school.student;
+package br.com.alura.school.domain.student;
 
 public class StudentBuilder {
     private Student student;
